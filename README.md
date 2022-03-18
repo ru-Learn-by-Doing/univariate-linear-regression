@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/gutfeeling/univariate-linear-regression/branch/master/graph/badge.svg)](https://codecov.io/gh/gutfeeling/univariate-linear-regression)
 
 
-This repository holds the code for the DataCamp course [Unit Testing for Data Science in Python](https://www.ds.com/courses/unit-testing-for-data-science-in-python). 
+
 
 Please make sure that you have installed the package `univariate_linear_regression` in this repo using `pip` before running `pytest`. Otherwise, you may get `ImportError`s.
 
